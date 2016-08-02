@@ -2,6 +2,7 @@
 layout: page
 title: Get in Touch
 permalink: /get-in-touch/
+order: 6
 ---
 
 We work with any grassroots group working for social change. For example, we work with community organisers, local campaigns, activist groups, and housing co-ops. If you’re not sure if your group or situation is one that fits with what we are offering, please get in touch and we can talk about it.

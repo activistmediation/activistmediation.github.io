@@ -2,6 +2,7 @@
 layout: page
 title: How we see Conflict
 permalink: /how-we-see-conflict/
+order: 4
 ---
 
 Tensions, disagreements and conflict are a natural part of being in any relationship or group, and can offer an opportunity to grow as individuals and as groups, if supported well. Often, it doesn't look or feel like that when we’re right in the middle of a conflict, because it can bring up a lot of intense feelings, including pain, fear, anger and hopelessness, for everyone involved.

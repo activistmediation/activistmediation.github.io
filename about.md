@@ -2,6 +2,7 @@
 layout: page
 title: About us
 permalink: /about/
+order: 2
 ---
 
 The Activist Mediation Network is a network of mediators based around the UK. We support groups in finding their own ways through conflict - we can facilitate your group through a conflict, or help you develop the capacity to do it yourself.

@@ -2,6 +2,7 @@
 layout: page
 title: Our Vision
 permalink: /our-vision/
+order: 3
 ---
 
 We want to co-create a world which responds to all levels of conflict in ways that increase wellbeing for everyone. Working with conflict in this way, with whatever support is needed, holds the potential for empowering groups working for change, as well as creating change within groups.

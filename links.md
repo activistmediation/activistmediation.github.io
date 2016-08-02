@@ -2,6 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
+order: 7
 ---
 
 These organisations are home to some great facilitators and trainers, who offer a wide range of support for groups working for social change, and some of them support groups working through conflict
