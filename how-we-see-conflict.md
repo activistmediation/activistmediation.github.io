@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How we see Conflict
+title: How we see conflict
 permalink: /how-we-see-conflict/
 order: 4
 ---

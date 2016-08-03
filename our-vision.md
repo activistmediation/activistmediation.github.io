@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Vision
+title: Our vision
 permalink: /our-vision/
 order: 3
 ---

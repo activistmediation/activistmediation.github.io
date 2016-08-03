@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get in Touch
+title: Get in touch
 permalink: /get-in-touch/
 order: 6
 ---

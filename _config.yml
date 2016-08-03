@@ -9,7 +9,7 @@
 title: Activist Mediation Network
 email: amn@riseup.net
 description: > # this means to ignore newlines until "baseurl:"
-  Mediation and conflict resolution for UK activists.
+  Mediation, Facilitation, Training and Support for Working Through Conflict
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://activistmediation.org.uk" # the base hostname & protocol for your site
 twitter_username: jekyllrb
